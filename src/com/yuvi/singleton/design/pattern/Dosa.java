@@ -1,0 +1,10 @@
+package com.yuvi.singleton.design.pattern;
+
+public class Dosa {
+
+    private static Dosa dosa = new Dosa();
+
+    public static Dosa getDosa(){
+        return dosa;
+    }
+}
