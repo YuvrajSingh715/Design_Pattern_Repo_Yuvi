@@ -1,4 +1,4 @@
-package com.yuvi.singleton.design.pattern;
+package com.yuvi.singletondesignpattern;
 
 public class Dosa {
 
