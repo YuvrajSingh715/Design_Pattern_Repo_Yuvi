@@ -1,6 +1,5 @@
 package com.yuvi.singletondesignpattern;
 
-
 public class Dosa {
 
 	// Eager way of creating singleton object

@@ -25,8 +25,8 @@ public class IDTest {
         Dosa d1 = Dosa.getDosa();
         Dosa d2 = Dosa.getDosa();
 
-        System.out.println("hashcode of dosa1 = "+ d1.hashCode());
-        System.out.println("hashcode of dosa2 = "+ d2.hashCode());
+        System.out.println("hashcode of d1 = "+ d1.hashCode());
+        System.out.println("hashcode of d2 = "+ d2.hashCode());
 
 	}
 }
